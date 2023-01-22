@@ -1,0 +1,142 @@
+body{
+  background: #E9D5DA;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.name{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #F2F2F2;
+
+}
+
+h2, h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+
+  color: #827397;
+}
+
+a{
+  
+  color: #827397;
+}
+h2{
+  font-weight: normal;
+  font-size: 2.5rem;
+  color: #4D4C7D;
+}
+
+.description{
+  color: #F2F2F2;
+  margin-top: 0;
+  position: absolute;
+  top: 130px;
+  left: 465px;
+
+}
+
+.top-container{
+  background: #827397;
+  position: relative;
+  top: -50px;
+  height: 600px;  
+  margin-top: 0;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 190px;
+  left: 310px;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 80px;
+  right: 290px;
+}
+
+.mountain{
+  position: absolute;
+  bottom: 0;
+  left: 330px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 75px auto;
+}
+
+.skill, .skill-description{
+  text-align: left;
+}
+
+.skill-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.manner{
+  float: right;
+  margin-left: 30px;
+}
+
+hr{
+  background: none;
+  border-top: 4px dotted #363062;
+  width: 40px;
+  margin: 60px auto;
+}
+
+.message{
+  margin-bottom: 30px;
+}
+
+.btn{
+  background: #827397;
+  color: white ;
+  padding: 10px 18px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+}
+
+.bottom-container{
+  margin-top: 50px;
+  position: relative;
+  height: 150px;
+  background-color: #4D4C7D;
+}
+
+.footer-link{
+  position: absolute;
+  text-decoration: none;
+  top: 40px;
+  
+}
+
+.linkedin{
+  left: 500px;
+}
+.twitter{
+  left: 610px;
+}
+.google{
+  left: 700px;
+}
+
+.credit{
+  position: absolute;
+  top: 80px;
+  left: 540px;
+  color: white;
+  font-weight: normal;
+  font-size: 14px;
+}
